@@ -1,8 +1,21 @@
-# minecraft-UB-for-CPN
-this file is unblocked for anyone tryina play minecraft in theyre school and rather can find only a couple that doesnt have singleplayer or is just 1.5.2 this version
-is a 1.8.8 you can try it on your school computer wish you luck 
-if its still blocked please drop a comment
+# WebCraft
+This file provides an website version of Minecraft 1.12.2, perfect for anyone trying to play at school. Most unblocked versions are outdated (like 1.5.2) or don’t have singleplayer, this one does.
 
-# how to use it ?
-you click on the html file then you click the arrow with bar or download button
-then after its done you click it and should open another tab and then there you have it " its for some of you who have been living under a rock if u dont know how to use HTML"
+✅ - Version: Minecraft 1.12.2
+✅ - Supports Singleplayer
+🎯 - A port of "EaglerCraft"
+
+If it’s still blocked on your network, feel free to drop a comment for help.
+
+(However it shouldnt be as it is a HTML file and schools cant block HTML files from being opened)
+
+# How to Use
+Open the `.html` file included in this repo.
+
+Click the download icon.
+
+Once the download is complete, open the file.
+
+It should open in a new tab, and you're good to go!
+
+Note: If you don’t know how HTML files work, just open it via your file manager and it should open in your default web browser. That’s it.
