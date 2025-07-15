@@ -1,7 +1,7 @@
 # WebCraft
-This file provides an website version of Minecraft 1.8.8, perfect for anyone trying to play at school. Most unblocked versions are outdated (like 1.5.2) or don’t have singleplayer, this one does.
+This file provides an website version of Minecraft 1.12.2, perfect for anyone trying to play at school. Most unblocked versions are outdated (like 1.5.2) or don’t have singleplayer, this one does.
 
-✅ - Version: Minecraft 1.8.8
+✅ - Version: Minecraft 1.12.2
 ✅ - Supports Singleplayer
 🎯 - A port of "EaglerCraft"
 
